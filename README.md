@@ -33,30 +33,48 @@
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269024-0feb7100-ff0c-11ea-9c10-6175a5185840.png">
 
 - [x] step 08: from terminal or console, edit those files with nano or vim:
-
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269309-7ec8ca00-ff0c-11ea-88b0-709155b06bea.png">
 
 - [x] `Makefile`
+     - `setup` for a python virtual environment
+     - `activate` activate the virtual environment (does not work)
+     - `install` required dependencies
+     - `test` validates via unit tests of  
+           - python code
+           - jupyter notebook
+     - `lint` for warnings & errors in `cirepolib` and later 'cli.py'
+           - `R` disables recoomendations
+           - `C` disables configurations
+     - `all` performs `install`, `lint`, and `test`
 <img width="682" alt="GNU nano 2 0 6" src="https://user-images.githubusercontent.com/38410965/94269044-1b3e9c80-ff0c-11ea-89df-2cfc352244c9.png">
 
 - [x] 'requirements.txt`
 <img width="682" alt="nano requirements txt" src="https://user-images.githubusercontent.com/38410965/94269063-242f6e00-ff0c-11ea-8798-e62ebd53d2e9.png">
 
-- [x] `cirepomod.py`
+- [x] `cirepomod.py` 
+     - `myfunc` returns 1
+     - `call_web_service' will be ued by `cli.py` later
 <img width="682" alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94269088-2e516c80-ff0c-11ea-80bb-accb56291765.png">
 
 - [x] `test_cirepo.py`
+     - imports `cirepomod` module from `cirepolib` library
+     - `test_func` asserts that cirepomod.my_func == 1
 <img width="682" alt="nano teststest_cirepo py - nano" src="https://user-images.githubusercontent.com/38410965/94269121-37dad480-ff0c-11ea-99eb-f92ead11b214.png">
 
-- [x] `.circleci/config.yml`
+- [x] `.circleci/config.yml` is config for our SaaS
+     - 3 run steps 
+           - `make install`
+		 - `make test`
+		 - `make lint`
+	- names will show up in Circle Ci as build steps
+		  - `install dependences`
+		  - `run tests`
+		  - `run lint`
 <img width="682" alt="nano circleciconfig yml" src="https://user-images.githubusercontent.com/38410965/94269159-432e0000-ff0c-11ea-9afd-bb988a178274.png">
 
-- [x] step 12: from terminl or console edit ``
-
-
+- [x] step 12: try out `make setup`, `make activate`, `make install`, `make test`
 <img width="682" alt="make install" src="https://user-images.githubusercontent.com/38410965/94269319-825c5100-ff0c-11ea-98c4-8f9d65e96bba.png">
-
-
+     - `make test` fails on the jupyter notebook
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269339-88523200-ff0c-11ea-8a9e-9e6b39721a88.png">
 
 

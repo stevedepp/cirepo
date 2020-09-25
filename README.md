@@ -40,3 +40,68 @@ continuous integration repo
 <img width="682" alt="nano circleciconfig yml" src="https://user-images.githubusercontent.com/38410965/94269159-432e0000-ff0c-11ea-9afd-bb988a178274.png">
 
 
+
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269309-7ec8ca00-ff0c-11ea-88b0-709155b06bea.png">
+
+<img width="682" alt="make install" src="https://user-images.githubusercontent.com/38410965/94269319-825c5100-ff0c-11ea-98c4-8f9d65e96bba.png">
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269339-88523200-ff0c-11ea-8a9e-9e6b39721a88.png">
+
+
+<img width="682" alt="Jupyter notebook" src="https://user-images.githubusercontent.com/38410965/94269364-9011d680-ff0c-11ea-86a6-a4843a5d35f8.png">
+
+
+<img width="940" alt="localhost8888tree" src="https://user-images.githubusercontent.com/38410965/94269383-986a1180-ff0c-11ea-9755-d37de5c7e1b4.png">
+
+
+<img width="940" alt="notebook Jupyter No" src="https://user-images.githubusercontent.com/38410965/94269403-9e5ff280-ff0c-11ea-864d-3272055c7134.png">
+
+
+
+<img width="940" alt="stevedeppmy" src="https://user-images.githubusercontent.com/38410965/94269421-a324a680-ff0c-11ea-9a2d-919dd04ecf44.png">
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269443-a91a8780-ff0c-11ea-92e2-d4115cc4a654.png">
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269458-ae77d200-ff0c-11ea-9c8e-c6e9933e0611.png">
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269468-b33c8600-ff0c-11ea-8d26-31dd554b14f3.png">
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269485-ba639400-ff0c-11ea-8ad6-7711b9c892ce.png">
+
+
+<img width="1193" alt="Legacy Jobs View stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269543-cd766400-ff0c-11ea-8afd-9815661b10da.png">
+
+
+
+
+<img width="1051" alt="o Build Error (2)" src="https://user-images.githubusercontent.com/38410965/94269558-d5360880-ff0c-11ea-9783-362f1148c71d.png">
+
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269585-dbc48000-ff0c-11ea-8994-4d579cb23130.png">
+
+
+<img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269611-e252f780-ff0c-11ea-8d96-fbd024dcb69b.png">
+
+
+
+<img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269634-ea129c00-ff0c-11ea-91fe-af47d0181e05.png">
+
+<img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94269695-feef2f80-ff0c-11ea-805d-00d836ffebe9.png">
+
+

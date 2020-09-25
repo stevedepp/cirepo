@@ -13,7 +13,7 @@
 - [x] step 04: select your organization
 <img width="486" alt="Select an organization" src="https://user-images.githubusercontent.com/38410965/94268387-15948700-ff0b-11ea-8c12-812f9302ae45.png">
 
-- [x] step 05: select a project (circleci populates this with your github repos)
+- [x] step 05: select `cirepo` project (circleci populates this with your github repos)
 <img width="860" alt="Projects" src="https://user-images.githubusercontent.com/38410965/94268415-20e7b280-ff0b-11ea-8003-adfad03c2e88.png">
 
 - [x] step 06: circleci needs a .circleci/config.yml file (this is a bug later)

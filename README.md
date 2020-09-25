@@ -9,15 +9,12 @@
 <img width="660" alt="Create a new repository" src="https://user-images.githubusercontent.com/38410965/94270834-b46eb280-ff0e-11ea-9496-fe0a94cde93c.png">
 
 - [x] step 03: log into https://circleci.com with github
-<img alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94265421-7cfc0800-ff06-11ea-831b-fbecba9bf1a2.png" width="682">
-
-- [x] step 04: select your organization
 <img width="721" alt="Log In to" src="https://user-images.githubusercontent.com/38410965/94268352-0a415b80-ff0b-11ea-95e1-b3b10f36a463.png">
 
-- [x] step 05: select a project (circleci populates this with your github repos)
+- [x] step 04: select your organization
 <img width="486" alt="Select an organization" src="https://user-images.githubusercontent.com/38410965/94268387-15948700-ff0b-11ea-8c12-812f9302ae45.png">
 
-
+- [x] step 05: select a project (circleci populates this with your github repos)
 <img width="860" alt="Projects" src="https://user-images.githubusercontent.com/38410965/94268415-20e7b280-ff0b-11ea-8003-adfad03c2e88.png">
 
 

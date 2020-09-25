@@ -114,13 +114,14 @@
      - [x] 'git push`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269585-dbc48000-ff0c-11ea-8994-4d579cb23130.png">
 
-- [x] step 21: circleci has the build job queued up _(`build` indicates no eror so far)_
+- [x] step 21: circleci has the build job queued up _(`build` indicates no error so far)_
 <img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269611-e252f780-ff0c-11ea-8d96-fbd024dcb69b.png">
 
-- [x] step 21 (continued): circleci is running
+- [x] step 21 (continued): circleci is `Running`
 <img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269634-ea129c00-ff0c-11ea-91fe-af47d0181e05.png">
 
-- [x] step 21 (continued): circleci `Success` - notice our named steps `install dependencies`, `run tests`, and `run lint`
+- [x] step 21 (continued): circleci `Success`
+      notice our named steps `install dependencies`, `run tests`, and `run lint`
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94281522-bccdea00-ff1c-11ea-82a6-2a8b77913a23.png">
 
 

@@ -41,10 +41,10 @@
 - [x] step 09: from terminl or console edit `cirepomod.py`
 <img width="682" alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94269088-2e516c80-ff0c-11ea-80bb-accb56291765.png">
 
-- [x] step 10: from terminl or console edit ``
+- [x] step 10: from terminl or console edit `test_cirepo.py`
 <img width="682" alt="nano teststest_cirepo py - nano" src="https://user-images.githubusercontent.com/38410965/94269121-37dad480-ff0c-11ea-99eb-f92ead11b214.png">
 
-- [x] step 11: from terminl or console edit ``
+- [x] step 11: from terminl or console edit `.circleci/config.yml`
 <img width="682" alt="nano circleciconfig yml" src="https://user-images.githubusercontent.com/38410965/94269159-432e0000-ff0c-11ea-9afd-bb988a178274.png">
 
 - [x] step 12: from terminl or console edit ``

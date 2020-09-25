@@ -1,4 +1,6 @@
 # cirepo
+
+[![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
 ## continuous integration repo
 
 - [x] step 01: new github repository

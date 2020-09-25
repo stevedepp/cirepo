@@ -107,14 +107,14 @@
 - [x] step 19 (continued): circleci `Config Processing Error` because missing the .circleci/config.yml file _(unsure why)_
 <img width="1051" alt="o Build Error (2)" src="https://user-images.githubusercontent.com/38410965/94269558-d5360880-ff0c-11ea-9783-362f1148c71d.png">
 
-- [x] step 20: push master again to origin at github with .circleci/config.yml file this time _(it had been deleted)_
+- [x] step 20: push `master` again to `origin` at github with .circleci/config.yml file this time _(it had been deleted)_
      - [x] `git status`
      - [x] `git add` all with `*`
      - [x] `git commit -m 'adding circleci/config.yml'`
-     - [x] 'git push`
+     - [x] `git push`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269585-dbc48000-ff0c-11ea-8994-4d579cb23130.png">
 
-- [x] step 21: circleci has the build job queued up _(`build` indicates no error so far)_
+- [x] step 21: circleci has the build job `Queued` _(`build` indicates no error so far)_
 <img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269611-e252f780-ff0c-11ea-8d96-fbd024dcb69b.png">
 
 - [x] step 21 (continued): circleci is `Running`

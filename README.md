@@ -1,6 +1,8 @@
 # cirepo
 continuous integration repo
 
+
+step 1: new github repository
 ![Repositories](https://user-images.githubusercontent.com/38410965/94265588-d106ec80-ff06-11ea-892a-dd699bcdbf97.png)
 
 

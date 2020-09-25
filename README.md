@@ -66,7 +66,7 @@
            - `make install`
 		 - `make test`
 		 - `make lint`
-	- names will show up in Circle Ci as build steps
+	- lines with `name:` will show up in Circle Ci as build steps
 		 - `install dependences`
 		 - `run tests`
 		 - `run lint`

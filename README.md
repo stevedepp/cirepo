@@ -16,7 +16,7 @@
 - [x] step 05: select `cirepo` project (circleci populates this with your github repos)
 <img width="860" alt="Projects" src="https://user-images.githubusercontent.com/38410965/94268415-20e7b280-ff0b-11ea-8003-adfad03c2e88.png">
 
-- [x] step 06: circleci needs a .circleci/config.yml file (this is a bug later)
+- [x] step 06: circleci needs a `.circleci/config.yml` file (this is a bug later)
 <img width="802" alt=" Pipelines" src="https://user-images.githubusercontent.com/38410965/94269002-05c97280-ff0c-11ea-927d-7c7dfa70b7fd.png">
 
 - [x] step 07: from terminal or console, clone github repo and create these files:

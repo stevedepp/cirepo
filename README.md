@@ -120,12 +120,6 @@
 - [x] step 21 (continued): circleci is `Running`
 <img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269634-ea129c00-ff0c-11ea-91fe-af47d0181e05.png">
 
-- [x] step 21 (continued): circleci `Success`
-
-      notice our named steps `install dependencies`, `run tests`, and `run lint`
+- [x] step 21 (continued): circleci `Success` -(notice the named steps: `install dependencies`, `run tests`, and `run lint`)_
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94281522-bccdea00-ff1c-11ea-82a6-2a8b77913a23.png">
-
-
-<img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94269695-feef2f80-ff0c-11ea-805d-00d836ffebe9.png">
-
 

@@ -41,10 +41,10 @@
      - `install` required dependencies
      - `test` validates via unit tests of
      	- python code
-	- jupyter notebook
+	    - jupyter notebook
      - `lint` for warnings & errors in `cirepolib` _and later 'cli.py'_
      	- `R` disables recoomendations
-	- `C` disables configurations
+	    - `C` disables configurations
      - `all` performs `install`, `lint`, and `test`
 <img width="682" alt="GNU nano 2 0 6" src="https://user-images.githubusercontent.com/38410965/94269044-1b3e9c80-ff0c-11ea-89df-2cfc352244c9.png">
 

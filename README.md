@@ -101,7 +101,7 @@
      - [x] 'git push`
 <img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269485-ba639400-ff0c-11ea-8ad6-7711b9c892ce.png">
 
-- [x] step 19: circleci has the build job queued up _(but there is an `Build Error` already)_
+- [x] step 19: circleci has the build job `Queued` _(but there is an `Build Error` already)_
 <img width="1193" alt="Legacy Jobs View stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269543-cd766400-ff0c-11ea-8afd-9815661b10da.png">
 
 - [x] step 19 (continued): circleci `Config Processing Error` because missing the .circleci/config.yml file _(unsure why)_

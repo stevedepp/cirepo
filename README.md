@@ -75,7 +75,7 @@
 - [x] step 12: try out `make setup`, `make activate`, and `make install`  
 <img width="682" alt="make install" src="https://user-images.githubusercontent.com/38410965/94269319-825c5100-ff0c-11ea-98c4-8f9d65e96bba.png">
 
-- [x] step 12 (continued): `make test` which fails on the jupyter notebook
+- [x] step 12 (continued): `make test` which fails when jupyter `notebook.ipynb` is not found
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269339-88523200-ff0c-11ea-8a9e-9e6b39721a88.png">
 
 - [x] step 13: start jupyter notebook

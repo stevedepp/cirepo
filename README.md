@@ -32,22 +32,23 @@
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269024-0feb7100-ff0c-11ea-9c10-6175a5185840.png">
 
-- [x] step 07: from terminal or console, edit those files
+- [x] step 08: from terminal or console, edit those files with nano or vim:
+
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269309-7ec8ca00-ff0c-11ea-88b0-709155b06bea.png">
 
-     - [x] `Makefile`
+- [x] `Makefile`
 <img width="682" alt="GNU nano 2 0 6" src="https://user-images.githubusercontent.com/38410965/94269044-1b3e9c80-ff0c-11ea-89df-2cfc352244c9.png">
 
-     - [x] 'requirements.txt`
+- [x] 'requirements.txt`
 <img width="682" alt="nano requirements txt" src="https://user-images.githubusercontent.com/38410965/94269063-242f6e00-ff0c-11ea-8798-e62ebd53d2e9.png">
 
-     - [x] `cirepomod.py`
+- [x] `cirepomod.py`
 <img width="682" alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94269088-2e516c80-ff0c-11ea-80bb-accb56291765.png">
 
-- [x] step 10: from terminl or console edit `test_cirepo.py`
+- [x] `test_cirepo.py`
 <img width="682" alt="nano teststest_cirepo py - nano" src="https://user-images.githubusercontent.com/38410965/94269121-37dad480-ff0c-11ea-99eb-f92ead11b214.png">
 
-- [x] step 11: from terminl or console edit `.circleci/config.yml`
+- [x] `.circleci/config.yml`
 <img width="682" alt="nano circleciconfig yml" src="https://user-images.githubusercontent.com/38410965/94269159-432e0000-ff0c-11ea-9afd-bb988a178274.png">
 
 - [x] step 12: from terminl or console edit ``

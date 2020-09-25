@@ -4,7 +4,7 @@
 - [x] step 01: new github repository
 <img width="707" alt="I Repositories" src="https://user-images.githubusercontent.com/38410965/94271088-20511b00-ff0f-11ea-81e7-bc92930c1e32.png">
 
-- [x] step 02: create public with a simple README.md and gitignore template for python 
+- [x] step 02: create `Public` with a simple `README.md` and `.gitignore` template for python 
 <img width="660" alt="Create a new repository" src="https://user-images.githubusercontent.com/38410965/94270834-b46eb280-ff0e-11ea-9496-fe0a94cde93c.png">
 
 - [x] step 03: log into https://circleci.com with github

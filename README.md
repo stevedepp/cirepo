@@ -94,7 +94,7 @@
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269443-a91a8780-ff0c-11ea-92e2-d4115cc4a654.png">
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269458-ae77d200-ff0c-11ea-9c8e-c6e9933e0611.png">
 
-- [x] step 18: push `master` to origin at github:
+- [x] step 18: push `master` to `origin` at github:
      - [x] `git status` _(notice anything missing?)_
      - [x] `git add` all with `*`
      - [x] `git commit -m 'initial commit'`

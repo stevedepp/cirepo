@@ -101,8 +101,6 @@
      - [x] 'git push`
 <img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269485-ba639400-ff0c-11ea-8ad6-7711b9c892ce.png">
 
-<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269468-b33c8600-ff0c-11ea-8d26-31dd554b14f3.png">
-
 - [x] step 19: circleci has the build job queued up _(but there is an `build error` already)_
 <img width="1193" alt="Legacy Jobs View stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269543-cd766400-ff0c-11ea-8afd-9815661b10da.png">
 

@@ -19,7 +19,7 @@
 - [x] step 06: circleci needs a .circleci/config.yml file (this is a bug later)
 <img width="802" alt=" Pipelines" src="https://user-images.githubusercontent.com/38410965/94269002-05c97280-ff0c-11ea-927d-7c7dfa70b7fd.png">
 
-- [x] step 07: from terminal or console, clone github repo and create 
+- [x] step 07: from terminal or console, clone github repo and create these files:
      - [x] `Makefile`
      - [x] `requirements.txt`
      - [x] `cirepolib` folder
@@ -32,13 +32,16 @@
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269024-0feb7100-ff0c-11ea-9c10-6175a5185840.png">
 
-- [x] step 07: from terminal or console edit `Makefile1
+- [x] step 07: from terminal or console, edit those files
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269309-7ec8ca00-ff0c-11ea-88b0-709155b06bea.png">
+
+     - [x] `Makefile`
 <img width="682" alt="GNU nano 2 0 6" src="https://user-images.githubusercontent.com/38410965/94269044-1b3e9c80-ff0c-11ea-89df-2cfc352244c9.png">
 
-- [x] step 08: from terminal or console edit 'requirements.txt`
+     - [x] 'requirements.txt`
 <img width="682" alt="nano requirements txt" src="https://user-images.githubusercontent.com/38410965/94269063-242f6e00-ff0c-11ea-8798-e62ebd53d2e9.png">
 
-- [x] step 09: from terminl or console edit `cirepomod.py`
+     - [x] `cirepomod.py`
 <img width="682" alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94269088-2e516c80-ff0c-11ea-80bb-accb56291765.png">
 
 - [x] step 10: from terminl or console edit `test_cirepo.py`
@@ -48,7 +51,7 @@
 <img width="682" alt="nano circleciconfig yml" src="https://user-images.githubusercontent.com/38410965/94269159-432e0000-ff0c-11ea-9afd-bb988a178274.png">
 
 - [x] step 12: from terminl or console edit ``
-<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269309-7ec8ca00-ff0c-11ea-88b0-709155b06bea.png">
+
 
 <img width="682" alt="make install" src="https://user-images.githubusercontent.com/38410965/94269319-825c5100-ff0c-11ea-98c4-8f9d65e96bba.png">
 

@@ -97,31 +97,32 @@
      - [x] `git add` all with `*`
      - [x] `git commit -m 'initial commit'`
      - [x] 'git push`
+<img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269485-ba639400-ff0c-11ea-8ad6-7711b9c892ce.png">
+
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269468-b33c8600-ff0c-11ea-8d26-31dd554b14f3.png">
 
 - [x] step 19: circleci has the build job queued up _(but there is an `build error` already)_
-<img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269485-ba639400-ff0c-11ea-8ad6-7711b9c892ce.png">
+<img width="1193" alt="Legacy Jobs View stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269543-cd766400-ff0c-11ea-8afd-9815661b10da.png">
 
 - [x] step 19 (continued): circleci `Config Processing Error` because missing the .circleci/config.yml file _(unsure why)_
-<img width="1193" alt="Legacy Jobs View stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269543-cd766400-ff0c-11ea-8afd-9815661b10da.png">
+<img width="1051" alt="o Build Error (2)" src="https://user-images.githubusercontent.com/38410965/94269558-d5360880-ff0c-11ea-9783-362f1148c71d.png">
 
 - [x] step 20: push master again to origin at github with .circleci/config.yml file this time _(it had been deleted)_
      - [x] `git status`
      - [x] `git add` all with `*`
      - [x] `git commit -m 'adding circleci/config.yml'`
      - [x] 'git push`
-<img width="1051" alt="o Build Error (2)" src="https://user-images.githubusercontent.com/38410965/94269558-d5360880-ff0c-11ea-9783-362f1148c71d.png">
-
-- [x] step 21: circleci has the build job queued up _(`build` indicates no eror so far)_
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94269585-dbc48000-ff0c-11ea-8994-4d579cb23130.png">
 
-- [x] step 21 (continued): circleci is running
+- [x] step 21: circleci has the build job queued up _(`build` indicates no eror so far)_
 <img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269611-e252f780-ff0c-11ea-8d96-fbd024dcb69b.png">
+
+- [x] step 21 (continued): circleci is running
+<img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269634-ea129c00-ff0c-11ea-91fe-af47d0181e05.png">
 
 - [x] step 21 (continued): circleci `Success` - notice our named steps `install dependencies`, `run tests`, and `run lint`
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94281522-bccdea00-ff1c-11ea-82a6-2a8b77913a23.png">
 
-<img width="1051" alt="o Legacy Jobs View - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94269634-ea129c00-ff0c-11ea-91fe-af47d0181e05.png">
 
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94269695-feef2f80-ff0c-11ea-805d-00d836ffebe9.png">
 

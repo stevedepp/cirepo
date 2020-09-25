@@ -2,9 +2,12 @@
 continuous integration repo
 
 
-- [x] step 1: new github repository
+- [x] step 01: new github repository
 ![Repositories](https://user-images.githubusercontent.com/38410965/94265588-d106ec80-ff06-11ea-892a-dd699bcdbf97.png)
 
+
+- [x] step 02: create public with README.md and gitignore template for python 
+<img width="660" alt="Create a new repository" src="https://user-images.githubusercontent.com/38410965/94270834-b46eb280-ff0e-11ea-9496-fe0a94cde93c.png">
 
 <img alt="nano cirepolibcirepomod py - nano" src="https://user-images.githubusercontent.com/38410965/94265421-7cfc0800-ff06-11ea-831b-fbecba9bf1a2.png" width="682">
 

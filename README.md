@@ -179,22 +179,26 @@
 <img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326244-c2edb600-ff70-11ea-98b1-66732bd236d8.png">
 <img width="872" alt="Pasted Graphic 278" src="https://user-images.githubusercontent.com/38410965/94326248-c8e39700-ff70-11ea-8d19-42dac6b6846a.png">
 
-- [x] step 13: remove the notebook's 5th cell created earlier; the notebook test function loops endlessly waiting for response 
+- [x] step 13: remove the notebook's 5th cell created earlier; otherwise, the notebook test function `pytest --nbval` loops endlessly waiting for response 
 <img width="825" alt="Home Page Select or create a notebook" src="https://user-images.githubusercontent.com/38410965/94326255-d1d46880-ff70-11ea-89c2-fe0113983e4f.png">
 
-- [x] step 14: `cntr-c` followed by `y` kills the notebook
+- [x] step 14: in a terminal or console, `cntr-c` followed by `y` kills the notebook
 <img width="668" alt="Pasted Graphic 280" src="https://user-images.githubusercontent.com/38410965/94326264-dbf66700-ff70-11ea-9938-f41aee2c660b.png">
 
+- [x] step 15: open `Makefile` with nano or vim, and ppend `cli tests/test_cirepo` to the `make lint` script so those functions are linted
 <img width="668" alt="nano Makefile" src="https://user-images.githubusercontent.com/38410965/94326276-f16b9100-ff70-11ea-8b03-20cbfc1e533d.png">
 
+- [x] step 16: test linting locally with `make lint` 
 <img width="668" alt="activate" src="https://user-images.githubusercontent.com/38410965/94326281-fc262600-ff70-11ea-9fc6-51dbe6bfe0c0.png">
 
+- [x] step 17: in a terminal or console, separately commit the `cli.py` and `Makefile` changes with descriptive annotations to this feature branch 
 <img width="682" alt="git add" src="https://user-images.githubusercontent.com/38410965/94326290-0516f780-ff71-11ea-9aeb-2e421477cee5.png">
 
+- [x] step 18: to `git push` the locally committed features to the `origin` adding `--set-upstream origin feature_depp20200925` so upstream origin knows to make a this branch
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326292-0b0cd880-ff71-11ea-9e67-48f62b1508da.png">
 
+- [x] step 19: observe circleci successfully building and testing `feature_branch_depp_20200925`
 <img width="1051" alt="Pasted Graphic 286" src="https://user-images.githubusercontent.com/38410965/94326300-1829c780-ff71-11ea-9b31-c1bc2c4bc125.png">
-
 <img width="1051" alt="build (46) stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326304-1d871200-ff71-11ea-957f-f046dba02d2e.png">
 
 <img width="704" alt="Pasted Graphic 288" src="https://user-images.githubusercontent.com/38410965/94326313-27a91080-ff71-11ea-8391-95d4db82de95.png">

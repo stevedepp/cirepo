@@ -211,11 +211,13 @@
 <img width="752" alt="Pasted Graphic 290" src="https://user-images.githubusercontent.com/38410965/94326323-38598680-ff71-11ea-8506-0c3fd99d4112.png">
 <img width="752" alt="Pasted Graphic 291" src="https://user-images.githubusercontent.com/38410965/94326328-43141b80-ff71-11ea-9ffb-be377ed0249d.png">
 
+- [x] step 23: observe that the `Pull request successfully merged and closed` indicating the 2 features are successfully **_INTEGRATED_** into the `master` branch **ointo f the `cepo` repository
+<img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
+
 ## continuous integration repo 
 
 ### 3. 1st production release
 
-<img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326362-68088e80-ff71-11ea-99fd-b0f23887b4b3.png">
 

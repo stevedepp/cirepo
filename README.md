@@ -6,19 +6,19 @@ in three phases: building, developing, releasing
 
 ### 1. building the repo
 
-- [x] **step 01: new github repository**
+- [x] step 01: new github repository**
 <img width="707" alt="I Repositories" src="https://user-images.githubusercontent.com/38410965/94271088-20511b00-ff0f-11ea-81e7-bc92930c1e32.png">
 
-- [x] **step 02: create `Public` with a simple `README.md` and `.gitignore` template for python 
+- [x] step 02: create `Public` with a simple `README.md` and `.gitignore` template for python 
 <img width="660" alt="Create a new repository" src="https://user-images.githubusercontent.com/38410965/94270834-b46eb280-ff0e-11ea-9496-fe0a94cde93c.png">
 
-- [x] **step 03: log into https://circleci.com with github
+- [x] step 03: log into https://circleci.com with github
 <img width="721" alt="Log In to" src="https://user-images.githubusercontent.com/38410965/94268352-0a415b80-ff0b-11ea-95e1-b3b10f36a463.png">
 
-- [x] **step 04: select your organization
+- [x] step 04: select your organization
 <img width="486" alt="Select an organization" src="https://user-images.githubusercontent.com/38410965/94268387-15948700-ff0b-11ea-8c12-812f9302ae45.png">
 
-- [x] **step 05: select `cirepo` project (circleci populates this with your github repos)
+- [x] step 05: select `cirepo` project (circleci populates this with your github repos)
 <img width="860" alt="Projects" src="https://user-images.githubusercontent.com/38410965/94268415-20e7b280-ff0b-11ea-8003-adfad03c2e88.png">
 
 - [x] step 06: circleci needs a `.circleci/config.yml` file (this is a bug later)

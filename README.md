@@ -131,11 +131,20 @@
 
 ### 2. new repo features
 
-
+- [x] step 1: from terminal or console, create a new branch named `feature_depp_20200925`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">
 
+- [x] step 2: from terminal or console, create `cli.py` file and enter nano or vim editor 
 <img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326077-d2203400-ff6f-11ea-97a1-40779d6f713f.png">
 
+- [x] step 3: copy and paste a command line tool that ...
+    - [x] imports `cirepolib` modules, `json`, `click`, and `Flask` 
+    - [x] set `click.option` for `--name`
+    - [x] echo `print_name` module output
+    - [x] echo url's for `hello`, `fakedata`, and `wname` functions
+    - [x] define Flask app functions for each `app.route`
+    - [x] pylint fails if `hello()`, `fakedata()`, and `wname()` functions are not called
+    
 <img width="682" alt="Pasted Graphic 263" src="https://user-images.githubusercontent.com/38410965/94326081-d9474200-ff6f-11ea-88c8-04ce974f477d.png">
 
 <img width="682" alt="ol for interacting with library" src="https://user-images.githubusercontent.com/38410965/94326085-e19f7d00-ff6f-11ea-8416-9e6ec121f56b.png">
@@ -194,13 +203,11 @@
 
 <img width="752" alt="Pasted Graphic 291" src="https://user-images.githubusercontent.com/38410965/94326328-43141b80-ff71-11ea-9ffb-be377ed0249d.png">
 
-<img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
-
-
-
 ## continuous integration repo 
 
 ### 3. 1st production release
+
+<img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326362-68088e80-ff71-11ea-99fd-b0f23887b4b3.png">
 

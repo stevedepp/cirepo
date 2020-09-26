@@ -227,20 +227,8 @@
 - [x] step 03: siwtch from `production` to the `master` (devlopment) branch and open a `nano` or `vim` editor on `README.md`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326368-6e970600-ff71-11ea-8e07-51700f103c5e.png">
 
-- [x] step 04: add a circleci badge to README.md to indicate build success
-    - https://circleci.com/docs/2.0/status-badges/ provides information for configuring this badge
-    - template = "[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)"
-    	- <ORG_NAME> = CircleCI
-	- <VCS> provider = gh 
-	- <ORG_NAME> = your circleci.com user name
-	- <PROJECT_NAME> = cirepo
-	- <LINK> = link to circleci page; here use the projects page 
-    - "[![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://app.circleci.com/pipelines/github/stevedepp/myrepo/jobs)
-<img width="682" alt="nano README md" src="https://user-images.githubusercontent.com/38410965/94326375-748ce700-ff71-11ea-952a-78059792a74e.png">"
-
-
-
-<img width="682" alt="Pasted Graphic 297" src="https://user-images.githubusercontent.com/38410965/94326379-7a82c800-ff71-11ea-84a0-563492c074c6.png">
+- [x] step 04: add a circleci badge to README.md to indicate build success; https://circleci.com/docs/2.0/status-badges/ explains configurations
+<img width="682" alt="nano README md - nano" src="https://user-images.githubusercontent.com/38410965/94328499-21229500-ff81-11ea-9a15-88ee25c1ef9f.png">
 
 
 

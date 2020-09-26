@@ -131,7 +131,7 @@
 
 ### 2. new repo features
 
-- [x] step 01: from terminal or console, create a new branch named `feature_depp_20200925`
+- [x] step 01: from terminal or console, create a new branch named `feature_depp_20200925` via `git checkout -b feature_depp_20200925` 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">
 
 - [x] step 02: from terminal or console, create `cli.py` file and start either of nano or vim editors 
@@ -211,23 +211,31 @@
 <img width="752" alt="Pasted Graphic 290" src="https://user-images.githubusercontent.com/38410965/94326323-38598680-ff71-11ea-8506-0c3fd99d4112.png">
 <img width="752" alt="Pasted Graphic 291" src="https://user-images.githubusercontent.com/38410965/94326328-43141b80-ff71-11ea-9ffb-be377ed0249d.png">
 
-- [x] step 23: observe that the `Pull request successfully merged and closed` indicating the 2 features are successfully **_INTEGRATED_** into the `master` branch **ointo f the `cepo` repository
+- [x] step 23: observe that the `Pull request successfully merged and closed` indicating the 2 features are successfully **_INTEGRATED_** into the `origin` `master` branch of the `cepo` repository
 <img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
+
+(in summary, we have added features to `feature_depp_20200925` remotely and then pushed and merged `feature_depp_20200925` with the `origin` `master` repository, but the remote `master` repository does not know these features yet) 
 
 ## continuous integration repo 
 
 ### 3. 1st production release
 
-
+- [x] step 01: in a terminal or console, switch from `feature_depp_20200925` branch to `master` via `git checkout master` and then `git pull` the newly merged `master` branch with new features from `origin` 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326362-68088e80-ff71-11ea-99fd-b0f23887b4b3.png">
 
-
-
+- [x] step 02: from terminal or console, create a new `production` branch  via `git checkout -b production` and `git push` that branch to `origin` via `git push --set-upstream origin production`
+- [x] step 03: siwtch from `production` to the `master` (devlopment) branch and open a `nano` or `vim` editor on `README.md`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326368-6e970600-ff71-11ea-8e07-51700f103c5e.png">
 
-
-
-
+- [x] step 04: add a circleci badge to README.md to indicate build success
+    - https://circleci.com/docs/2.0/status-badges/ provides information for configuring this badge
+    - template: [![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+    	- <ORG_NAME> = CircleCI
+	- <VCS> provider = gh 
+	- <ORG_NAME> = your circleci.com user name
+	- <PROJECT_NAME> = cirepo
+	- <LINK> = link to circleci page; here use the projects page 
+    - [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://app.circleci.com/pipelines/github/stevedepp/myrepo/jobs)
 <img width="682" alt="nano README md" src="https://user-images.githubusercontent.com/38410965/94326375-748ce700-ff71-11ea-952a-78059792a74e.png">
 
 

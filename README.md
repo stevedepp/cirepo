@@ -1,7 +1,7 @@
 # cirepo
 
 [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
-## continuous integration repo
+## continuous integration repo - building the repo
 
 - [x] step 01: new github repository
 <img width="707" alt="I Repositories" src="https://user-images.githubusercontent.com/38410965/94271088-20511b00-ff0f-11ea-81e7-bc92930c1e32.png">
@@ -126,7 +126,9 @@
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94281522-bccdea00-ff1c-11ea-82a6-2a8b77913a23.png">
 
 
+## continuous integration repo 
 
+### new repo features
 
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">

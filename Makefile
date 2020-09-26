@@ -13,7 +13,7 @@ test:
 	python -m pytest --nbval notebook.ipynb
 
 lint:
-	pylint --disable=R,C cirepolib
+	pylint --disable=R,C cirepolib cli tests/test_cirepo
 
 all: install lint test
 

@@ -245,3 +245,4 @@
 <img width="255" alt="9 master" src="https://user-images.githubusercontent.com/38410965/94326390-90908880-ff71-11ea-8a21-724c373a8950.png">
 
 - [x] step 10: on github, in the `production` branch, notice the circleci badge and annotation for the `1st production release` 
+<img width="724" alt="Pasted Graphic 302" src="https://user-images.githubusercontent.com/38410965/94328749-0e10c480-ff83-11ea-9b83-11ca3805dd7e.png">

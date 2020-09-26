@@ -191,7 +191,7 @@
 - [x] step 16: test linting locally with `make lint` 
 <img width="668" alt="activate" src="https://user-images.githubusercontent.com/38410965/94326281-fc262600-ff70-11ea-9fc6-51dbe6bfe0c0.png">
 
-- [x] step 17: in a terminal or console, separately commit the `cli.py` and `Makefile` changes with descriptive annotations to this feature branch 
+- [x] step 17: in a terminal or console, separately add & commit the `cli.py` and `Makefile` changes with descriptive annotations to this `feature_depp~20200925` branch 
 <img width="682" alt="git add" src="https://user-images.githubusercontent.com/38410965/94326290-0516f780-ff71-11ea-9aeb-2e421477cee5.png">
 
 - [x] step 18: to `git push` the locally committed features to the `origin` adding `--set-upstream origin feature_depp20200925` so upstream origin knows to make a this branch
@@ -201,12 +201,14 @@
 <img width="1051" alt="Pasted Graphic 286" src="https://user-images.githubusercontent.com/38410965/94326300-1829c780-ff71-11ea-9b31-c1bc2c4bc125.png">
 <img width="1051" alt="build (46) stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326304-1d871200-ff71-11ea-957f-f046dba02d2e.png">
 
+- [x] step 20: on github's website, observe the `origin` repository received pushes from our remote terminal commands, and awaits a `Compare & pull request`; tap that green button
 <img width="704" alt="Pasted Graphic 288" src="https://user-images.githubusercontent.com/38410965/94326313-27a91080-ff71-11ea-8391-95d4db82de95.png">
 
+- [x] step 21: annotate the pull request, here with `this looks good`
 <img width="704" alt="Pasted Graphic 289" src="https://user-images.githubusercontent.com/38410965/94326317-30014b80-ff71-11ea-9dec-67456a84f92c.png">
 
+- [x] step 22: observe the interacting annotations between push and pull actions; tap the `Merge pull request` and then `Confirm merge`
 <img width="752" alt="Pasted Graphic 290" src="https://user-images.githubusercontent.com/38410965/94326323-38598680-ff71-11ea-8506-0c3fd99d4112.png">
-
 <img width="752" alt="Pasted Graphic 291" src="https://user-images.githubusercontent.com/38410965/94326328-43141b80-ff71-11ea-9ffb-be377ed0249d.png">
 
 ## continuous integration repo 

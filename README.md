@@ -229,14 +229,14 @@
 
 - [x] step 04: add a circleci badge to README.md to indicate build success
     - https://circleci.com/docs/2.0/status-badges/ provides information for configuring this badge
-    - template: [![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+    - template = "[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)"
     	- <ORG_NAME> = CircleCI
 	- <VCS> provider = gh 
 	- <ORG_NAME> = your circleci.com user name
 	- <PROJECT_NAME> = cirepo
 	- <LINK> = link to circleci page; here use the projects page 
-    - [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://app.circleci.com/pipelines/github/stevedepp/myrepo/jobs)
-<img width="682" alt="nano README md" src="https://user-images.githubusercontent.com/38410965/94326375-748ce700-ff71-11ea-952a-78059792a74e.png">
+    - "[![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://app.circleci.com/pipelines/github/stevedepp/myrepo/jobs)
+<img width="682" alt="nano README md" src="https://user-images.githubusercontent.com/38410965/94326375-748ce700-ff71-11ea-952a-78059792a74e.png">"
 
 
 

@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
 ## continuous integration repo 
-### building the repo
+### 1. building the repo
 
 - [x] step 01: new github repository
 <img width="707" alt="I Repositories" src="https://user-images.githubusercontent.com/38410965/94271088-20511b00-ff0f-11ea-81e7-bc92930c1e32.png">

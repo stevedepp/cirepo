@@ -231,18 +231,20 @@
 <img width="682" alt="nano README md - nano" src="https://user-images.githubusercontent.com/38410965/94328499-21229500-ff81-11ea-9a15-88ee25c1ef9f.png">
 
 
-- [x] step 05: from terminal or console, `git add` and `git commit` this `README.md` with annotation to indicate this is the 1st production release
+- [x] step 05: from terminal or console, `git add` and `git commit` this `README.md` with annotation to indicate this is the `1st production release`
 - [x] step 06: switch to `production` branch and `git merge` with the `master` branch; then `git push` sending this `production` branch to github and circleci for building and testing
 <img width="682" alt="Pasted Graphic 297" src="https://user-images.githubusercontent.com/38410965/94328647-377d2080-ff82-11ea-80f6-54c37ad2bd4f.png">
 
-- [x] step 07: on the circleci.com website, observe the build, test, lint stage successes
+(previously, branches merged via github.com, and now branches are merged via terminal or console; fewer annotations with this latter method) 
+
+- [x] step 07: on the circleci.com website, observe the install, test, lint and other stage successes
 <img width="959" alt="Admin v" src="https://user-images.githubusercontent.com/38410965/94326382-81113f80-ff71-11ea-8571-9ae9dcc27db2.png">
 
-- [x] step 08: back at github, observe the master branch with circleci badge; observe the message confirming `production` branch pushed 
+- [x] step 08: back at github.com, observe the `master` branch with circleci badge; observe the message confirming `production` branch pushed 
 <img width="742" alt="build (49) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326387-89697a80-ff71-11ea-9510-d010d976042c.png">
 
-- [x] step 09: on github, pull down from `master` to select `production` branch
+- [x] step 09: on github.com, pull down from `master` to select `production` branch
 <img width="255" alt="9 master" src="https://user-images.githubusercontent.com/38410965/94326390-90908880-ff71-11ea-8a21-724c373a8950.png">
 
-- [x] step 10: on github, in the `production` branch, notice the circleci badge and annotation for the `1st production release` 
+- [x] step 10: on github.com, in the `production` branch, notice the circleci badge and annotation for the `1st production release` 
 <img width="724" alt="Pasted Graphic 302" src="https://user-images.githubusercontent.com/38410965/94328749-0e10c480-ff83-11ea-9b83-11ca3805dd7e.png">

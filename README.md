@@ -241,5 +241,7 @@
 - [x] step 08: back at github, observe the master branch with circleci badge; observe the message confirming `production` branch pushed 
 <img width="742" alt="build (49) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326387-89697a80-ff71-11ea-9510-d010d976042c.png">
 
-- [x] step 09: on github, pull down from `master` to select `production` branch and notice the circleci badge and annotation for the `1st production release`
+- [x] step 09: on github, pull down from `master` to select `production` branch
 <img width="255" alt="9 master" src="https://user-images.githubusercontent.com/38410965/94326390-90908880-ff71-11ea-8a21-724c373a8950.png">
+
+- [x] step 10: on github, in the `production` branch, notice the circleci badge and annotation for the `1st production release` 

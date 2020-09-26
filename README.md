@@ -129,7 +129,7 @@
 
 ## continuous integration repo 
 
-### new repo features
+### 2. new repo features
 
 
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">

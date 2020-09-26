@@ -125,3 +125,99 @@
 - [x] step 21 (continued): circleci `Success` _(notice the named steps, `install dependencies`, `run tests`, and `run lint`, from `config.yml`)_
 <img width="1051" alt="D Legacy Jobs View" src="https://user-images.githubusercontent.com/38410965/94281522-bccdea00-ff1c-11ea-82a6-2a8b77913a23.png">
 
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">
+
+<img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326077-d2203400-ff6f-11ea-97a1-40779d6f713f.png">
+
+<img width="682" alt="Pasted Graphic 263" src="https://user-images.githubusercontent.com/38410965/94326081-d9474200-ff6f-11ea-88c8-04ce974f477d.png">
+
+<img width="682" alt="ol for interacting with library" src="https://user-images.githubusercontent.com/38410965/94326085-e19f7d00-ff6f-11ea-8416-9e6ec121f56b.png">
+
+<img width="771" alt="localhost5000" src="https://user-images.githubusercontent.com/38410965/94326091-ea904e80-ff6f-11ea-8e28-b1e211890a55.png">
+
+<img width="682" alt="cli py --name steve" src="https://user-images.githubusercontent.com/38410965/94326100-f2e88980-ff6f-11ea-9afa-609284adf04e.png">
+
+<img width="771" alt="Pasted Graphic 267" src="https://user-images.githubusercontent.com/38410965/94326102-fb40c480-ff6f-11ea-8b01-dcac1103e902.png">
+
+<img width="682" alt="cli py --name steve" src="https://user-images.githubusercontent.com/38410965/94326108-0c89d100-ff70-11ea-9dbb-f7cbb041b9bc.png">
+
+<img width="771" alt="localhost5000wname" src="https://user-images.githubusercontent.com/38410965/94326114-13b0df00-ff70-11ea-96f9-c3cb6963f9e3.png">
+
+
+
+
+
+<img width="668" alt="stevedepp@Steves-MBP-2" src="https://user-images.githubusercontent.com/38410965/94326211-9afe5280-ff70-11ea-947c-d11caeb3b108.png">
+
+<img width="771" alt="Pasted Graphic 271" src="https://user-images.githubusercontent.com/38410965/94326139-3f33c980-ff70-11ea-9b05-8ae98191b2bd.png">
+
+<img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326145-4529aa80-ff70-11ea-8bbb-16f7b4820d5f.png">
+
+<img width="913" alt="localhost5000" src="https://user-images.githubusercontent.com/38410965/94326151-4b1f8b80-ff70-11ea-94e2-6b02bc4d2850.png">
+
+<img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326224-aa7d9b80-ff70-11ea-8441-46bdbe05ea9a.png">
+
+<img width="913" alt="localhost5000fakedata" src="https://user-images.githubusercontent.com/38410965/94326236-bcf7d500-ff70-11ea-8826-e82ed009e637.png">
+
+<img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326244-c2edb600-ff70-11ea-98b1-66732bd236d8.png">
+
+<img width="872" alt="Pasted Graphic 278" src="https://user-images.githubusercontent.com/38410965/94326248-c8e39700-ff70-11ea-8d19-42dac6b6846a.png">
+
+<img width="825" alt="Home Page Select or create a notebook" src="https://user-images.githubusercontent.com/38410965/94326255-d1d46880-ff70-11ea-89c2-fe0113983e4f.png">
+
+<img width="668" alt="Pasted Graphic 280" src="https://user-images.githubusercontent.com/38410965/94326264-dbf66700-ff70-11ea-9938-f41aee2c660b.png">
+
+<img width="668" alt="nano Makefile" src="https://user-images.githubusercontent.com/38410965/94326276-f16b9100-ff70-11ea-8b03-20cbfc1e533d.png">
+
+<img width="668" alt="activate" src="https://user-images.githubusercontent.com/38410965/94326281-fc262600-ff70-11ea-9fc6-51dbe6bfe0c0.png">
+
+<img width="682" alt="git add" src="https://user-images.githubusercontent.com/38410965/94326290-0516f780-ff71-11ea-9aeb-2e421477cee5.png">
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326292-0b0cd880-ff71-11ea-9e67-48f62b1508da.png">
+
+<img width="1051" alt="Pasted Graphic 286" src="https://user-images.githubusercontent.com/38410965/94326300-1829c780-ff71-11ea-9b31-c1bc2c4bc125.png">
+
+<img width="1051" alt="build (46) stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326304-1d871200-ff71-11ea-957f-f046dba02d2e.png">
+
+<img width="704" alt="Pasted Graphic 288" src="https://user-images.githubusercontent.com/38410965/94326313-27a91080-ff71-11ea-8391-95d4db82de95.png">
+
+<img width="704" alt="Pasted Graphic 289" src="https://user-images.githubusercontent.com/38410965/94326317-30014b80-ff71-11ea-9dec-67456a84f92c.png">
+
+<img width="752" alt="Pasted Graphic 290" src="https://user-images.githubusercontent.com/38410965/94326323-38598680-ff71-11ea-8506-0c3fd99d4112.png">
+
+<img width="752" alt="Pasted Graphic 291" src="https://user-images.githubusercontent.com/38410965/94326328-43141b80-ff71-11ea-9ffb-be377ed0249d.png">
+
+<img width="760" alt="build (46) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326350-57581880-ff71-11ea-9553-ca43905d0bdd.png">
+
+
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326362-68088e80-ff71-11ea-99fd-b0f23887b4b3.png">
+
+
+
+<img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326368-6e970600-ff71-11ea-8e07-51700f103c5e.png">
+
+
+
+
+<img width="682" alt="nano README md" src="https://user-images.githubusercontent.com/38410965/94326375-748ce700-ff71-11ea-952a-78059792a74e.png">
+
+
+
+<img width="682" alt="Pasted Graphic 297" src="https://user-images.githubusercontent.com/38410965/94326379-7a82c800-ff71-11ea-84a0-563492c074c6.png">
+
+
+
+<img width="959" alt="Admin v" src="https://user-images.githubusercontent.com/38410965/94326382-81113f80-ff71-11ea-8571-9ae9dcc27db2.png">
+
+
+
+<img width="742" alt="build (49) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326387-89697a80-ff71-11ea-9510-d010d976042c.png">
+
+<img width="255" alt="9 master" src="https://user-images.githubusercontent.com/38410965/94326390-90908880-ff71-11ea-8a21-724c373a8950.png">

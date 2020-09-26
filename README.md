@@ -227,15 +227,14 @@
 - [x] step 03: siwtch from `production` to the `master` (devlopment) branch and open a `nano` or `vim` editor on `README.md`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326368-6e970600-ff71-11ea-8e07-51700f103c5e.png">
 
-- [x] step 04: add a circleci badge to README.md to indicate build success; https://circleci.com/docs/2.0/status-badges/ explains configurations
+- [x] step 04: add a circleci badge to README.md to indicate build success; https://circleci.com/docs/2.0/status-badges/ explains badge configurations
 <img width="682" alt="nano README md - nano" src="https://user-images.githubusercontent.com/38410965/94328499-21229500-ff81-11ea-9a15-88ee25c1ef9f.png">
 
 
-
+- [x] step 05: from terminal or console, `git add` and `git commit` this `README.md` with annotation to indicate this is the 1st production release
+- [x] step 06: switch to `production` branch and `git merge` with the `master` branch; then `git push` sending this `production` branch to github and circleci for building and testing
 <img width="959" alt="Admin v" src="https://user-images.githubusercontent.com/38410965/94326382-81113f80-ff71-11ea-8571-9ae9dcc27db2.png">
-
-
-
 <img width="742" alt="build (49) - stevedeppcirepo" src="https://user-images.githubusercontent.com/38410965/94326387-89697a80-ff71-11ea-9510-d010d976042c.png">
 
+- [x] step 07: on the circleci.com website, observe the build, test, lint stage successes
 <img width="255" alt="9 master" src="https://user-images.githubusercontent.com/38410965/94326390-90908880-ff71-11ea-8a21-724c373a8950.png">

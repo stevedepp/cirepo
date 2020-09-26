@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
 ## continuous integration repo 
+in three phases: building, developing, releasing
+
 ### 1. building the repo
 
 - [x] step 01: new github repository

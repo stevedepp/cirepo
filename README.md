@@ -134,10 +134,10 @@
 - [x] step 1: from terminal or console, create a new branch named `feature_depp_20200925`
 <img width="682" alt="stevedepp@Steves-MBP-2 -  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326072-ca608f80-ff6f-11ea-969b-74fd68223b78.png">
 
-- [x] step 2: from terminal or console, create `cli.py` file and enter nano or vim editor 
+- [x] step 2: from terminal or console, create `cli.py` file and start either of nano or vim editors 
 <img width="682" alt="stevedepp@Steves-MBP-2  02DV2cirepo" src="https://user-images.githubusercontent.com/38410965/94326077-d2203400-ff6f-11ea-97a1-40779d6f713f.png">
 
-- [x] step 3: copy and paste a command line tool that ...
+- [x] step 3: copy and paste code for the command line tool, `cli.py`, that ...
     - [x] imports `cirepolib` modules, `json`, `click`, and `Flask` 
     - [x] set `click.option` for `--name`
     - [x] echo `print_name` module output
@@ -147,22 +147,21 @@
     
 <img width="682" alt="Pasted Graphic 263" src="https://user-images.githubusercontent.com/38410965/94326081-d9474200-ff6f-11ea-88c8-04ce974f477d.png">
 
+- [x] step 4: test `cli.py` locally by running `./cli.py --name steve` which returns ...
+    - "steve-apple" in blue
+    - one `localhost` url for each of 3 functions
 <img width="682" alt="ol for interacting with library" src="https://user-images.githubusercontent.com/38410965/94326085-e19f7d00-ff6f-11ea-8416-9e6ec121f56b.png">
 
+- [x] step 5: paste `http://localhost:5000/` into browser
 <img width="771" alt="localhost5000" src="https://user-images.githubusercontent.com/38410965/94326091-ea904e80-ff6f-11ea-8e28-b1e211890a55.png">
-
 <img width="682" alt="cli py --name steve" src="https://user-images.githubusercontent.com/38410965/94326100-f2e88980-ff6f-11ea-9afa-609284adf04e.png">
 
+- paste `http://localhost:5000/fakedata` into browser
 <img width="771" alt="Pasted Graphic 267" src="https://user-images.githubusercontent.com/38410965/94326102-fb40c480-ff6f-11ea-8b01-dcac1103e902.png">
-
 <img width="682" alt="cli py --name steve" src="https://user-images.githubusercontent.com/38410965/94326108-0c89d100-ff70-11ea-9dbb-f7cbb041b9bc.png">
 
+- paste `http://localhost:5000/wname` into browser
 <img width="771" alt="localhost5000wname" src="https://user-images.githubusercontent.com/38410965/94326114-13b0df00-ff70-11ea-96f9-c3cb6963f9e3.png">
-
-
-
-
-
 <img width="668" alt="stevedepp@Steves-MBP-2" src="https://user-images.githubusercontent.com/38410965/94326211-9afe5280-ff70-11ea-947c-d11caeb3b108.png">
 
 <img width="771" alt="Pasted Graphic 271" src="https://user-images.githubusercontent.com/38410965/94326139-3f33c980-ff70-11ea-9b05-8ae98191b2bd.png">

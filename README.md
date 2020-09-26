@@ -166,16 +166,16 @@
 <img width="668" alt="stevedepp@Steves-MBP-2" src="https://user-images.githubusercontent.com/38410965/94326211-9afe5280-ff70-11ea-947c-d11caeb3b108.png">
 <img width="771" alt="Pasted Graphic 271" src="https://user-images.githubusercontent.com/38410965/94326139-3f33c980-ff70-11ea-9b05-8ae98191b2bd.png">
 
-- [x] step 09: run cells 1 to 4, copy & paste `!./cli.py --name steve` into a new 5th cell, and run it to return 3 urls
-- [x] step 10: click on the 1st url 
+- [x] step 09: run cells 1 to 4, copy & paste `!./cli.py --name steve` into a new 5th cell, and run that 5th cell to return 3 urls
+- [x] step 10: click on the 1st url `http://localhost:5000/`
 <img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326145-4529aa80-ff70-11ea-8bbb-16f7b4820d5f.png">
 <img width="913" alt="localhost5000" src="https://user-images.githubusercontent.com/38410965/94326151-4b1f8b80-ff70-11ea-94e2-6b02bc4d2850.png">
 
-- [x] step 11: click on the 2nd url 
+- [x] step 11: click on the 2nd url `http://localhost:5000/fakedata`
 <img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326224-aa7d9b80-ff70-11ea-8441-46bdbe05ea9a.png">
 <img width="913" alt="localhost5000fakedata" src="https://user-images.githubusercontent.com/38410965/94326236-bcf7d500-ff70-11ea-8826-e82ed009e637.png">
 
-- [x] step 12: click on the 3rd url 
+- [x] step 12: click on the 3rd url `http://localhost:5000/wname`
 <img width="872" alt="Home Page -" src="https://user-images.githubusercontent.com/38410965/94326244-c2edb600-ff70-11ea-98b1-66732bd236d8.png">
 <img width="872" alt="Pasted Graphic 278" src="https://user-images.githubusercontent.com/38410965/94326248-c8e39700-ff70-11ea-8d19-42dac6b6846a.png">
 

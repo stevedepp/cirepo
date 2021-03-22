@@ -1,3 +1,5 @@
+transcript is below this video
+
 ![demo](https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4)
 
 **slide 1:**  

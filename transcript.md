@@ -1,3 +1,5 @@
+![demo](https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4)
+
 **slide 1:**  
 
 Hello everyone.  This is Steve Depp.  Thank you for watching my demo video of Continuous integration.  This video covers 3 demos

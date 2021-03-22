@@ -1,6 +1,6 @@
 # cirepo
 
-here's a demo video for this repository.  please click on the video if you'd like sound.  
+here's a demo video for this repository.  please click on the video if you'd like sound or watch with a transcript [here](https://github.com/stevedepp/cirepo/blob/master/transcript.md)  
 
 ![demo](https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4)
 

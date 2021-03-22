@@ -1,5 +1,10 @@
 # cirepo
 
+here's a demo video for this repository.  please click on the video if you'd like sound.  
+
+![demo](https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4)
+
+
 [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
 ## continuous integration repo 
 in three phases: building, developing, releasing

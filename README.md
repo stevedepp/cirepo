@@ -1,4 +1,4 @@
-# cirepo
+## Continuous Integration via Google Cloud CLI
 
 here's a demo video for this repository.  please click on the video if you'd like sound or watch with a transcript [here](https://github.com/stevedepp/cirepo/blob/master/transcript.md)  
 

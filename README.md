@@ -1,4 +1,4 @@
-## Continuous Integration via Google Cloud CLI
+## Continuous Integration via CircleCI
 
 here's a demo video for this repository.  please click on the video if you'd like sound or watch with a transcript [here](https://github.com/stevedepp/cirepo/blob/master/transcript.md)  
 

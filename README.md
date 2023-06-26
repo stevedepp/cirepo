@@ -1,12 +1,9 @@
 ## Continuous Integration via CircleCI
 
-here's a demo video for this repository.  please click on the video if you'd like sound or watch with a transcript [here](https://github.com/stevedepp/cirepo/blob/master/transcript.md)  
+Here's a demo video for this repository.  Please unmute the video if you'd like sound or watch with a transcript [here](https://github.com/stevedepp/cirepo/blob/master/transcript.md).  Resolution improves in full screen. 
 
 <video src="https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4" autoplay controls loop muted style="max-width: 730px;">
 </video>
-
-
-![demo](https://user-images.githubusercontent.com/38410965/111926377-feca8980-8a82-11eb-827e-fbf48b5fac74.mp4)
 
 
 [![CircleCI](https://circleci.com/gh/stevedepp/cirepo.svg?style=svg)](https://circleci.com/gh/stevedepp/cirepo)
